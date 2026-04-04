@@ -2,7 +2,7 @@
 
 *Not a persona pack, but a migration-ready operating core*
 
-Most AI personas are surface constructs. They shape tone, voice, and style. They can feel distinctive, but they are fragile. Change the window, change the model, change the context depth, and the persona starts to drift.
+Most AI personas are built to shape tone, voice, and style. They can feel distinctive, but they are usually designed for short-lived interaction.
 
 ZL Subbrain was never built as a persona.
 
