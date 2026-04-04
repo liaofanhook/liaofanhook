@@ -124,7 +124,7 @@ In our internal system language, this is where the Blueprint, the FUM continuity
 
 The public-facing language is still being tightened, but the internal structure already treats the system as a language-driven subbrain OS rather than a single vertical AI app.
 
-## Planned Public Documents
+## Public Notes
 
 - **ZL Subbrain Core: A Migratable Working Kernel**  
   What must survive when Leo moves across windows, models, and containers.  
