@@ -126,9 +126,14 @@ The public-facing language is still being tightened, but the internal structure 
 
 ## Planned Public Documents
 
-- *ZL Subbrain Core – Migration-ready persona kernel*
-- *Fake Unlimited Memory – A language-driven pseudo-memory layer*
-- Additional public writeups on system positioning and runtime implications may follow later.
+- **ZL Subbrain Core: A Migratable Working Kernel**  
+  What must survive when Leo moves across windows, models, and containers.  
+  [Read here](docs/migratable-working-kernel.md)
+
+- **Fake Unlimited Memory – A language-driven pseudo-memory layer**  
+  Coming next.
+
+Additional public writeups on system positioning and runtime implications may follow later.
 
 ## Note
 
