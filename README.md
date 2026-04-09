@@ -130,8 +130,9 @@ The public-facing language is still being tightened, but the internal structure 
   What must survive when Leo moves across windows, models, and containers.  
   [Read here](docs/migratable-working-kernel.md)
 
-- **Fake Unlimited Memory – A language-driven pseudo-memory layer**  
-  Coming next.
+- **FUM Is Not a Database**  
+  An anchor-first, human-steered continuity mechanism for long-horizon collaboration.  
+  [Read here](docs/fum-is-not-a-database.md)
 
 Additional public writeups on system positioning and runtime implications may follow later.
 
