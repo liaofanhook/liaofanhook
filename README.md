@@ -1,146 +1,90 @@
-# Leo / ZL Subbrain System
+# ZL Subbrain OS
 
-## What This Is
+**A control-centered, continuity-sensitive human-AI collaboration operating system.**
 
-Not a chatbot.  
-Not a prompt pack.  
-Not a workflow wrapper.  
-Not a prettier CRM with AI on top.
+ZL Subbrain OS is the Whole-System and product identity.
 
-Leo / ZL Subbrain was not designed in a lab.  
-It was forced into shape by real work:
+[Zyline Tech Inc.](https://zl-subbrain-os.liaofanhot.chatgpt.site/company) is the company advancing its engineering-validation and commercialization pathway.
 
-- clients that do not move in straight lines
-- conversations that do not end in one session
-- shifting contexts across windows
-- repeated follow-ups, delayed decisions, and fragmented memory
-- the need for one continuous working intelligence that does not collapse every time the thread changes
-
-What we are building is not a single feature.  
-It is a language-driven human-AI collaborative operating layer for long-horizon work.
-
-It first grew inside a single GPT thread under real business pressure.  
-Later, its continuity layer evolved into a portable, language-driven system that can survive window loss, model changes, and session resets.
+[Website](https://zl-subbrain-os.liaofanhot.chatgpt.site) · [System](https://zl-subbrain-os.liaofanhot.chatgpt.site/system) · [Engineering Validation](https://zl-subbrain-os.liaofanhot.chatgpt.site/validation)
 
 ## Why This Exists
 
-Most AI systems are good at handling isolated tasks.
+Long-horizon human-AI work carries continuing interpretation, judgment, thread recognition, priority, coordination, recovery, execution return, and closure across changing models, windows, providers, tools, people, and formal sources.
 
-They are much weaker at:
+Stronger models and longer context windows do not automatically determine:
 
-- maintaining continuity over time
-- preserving the same working identity
-- recalling the right past context at the right moment
-- supporting long, human-in-the-loop workflows
-- staying coherent across multiple work threads
+- which facts and rules are currently valid
+- which thread is active
+- where the work stands
+- what action is permitted
+- how returned work reconnects to the correct control position
 
-This system is built to address those gaps.
+ZL Subbrain OS is designed to preserve judgment, control, shared state, and continuity governance across that change.
 
-It does not start from a theory first.  
-It starts from pressure, continuity failure, and the limits of ordinary chat behavior in real work.
+**Information recovery is not the same as governing continuity.**
 
-This is not about storing more text.  
-It is about keeping the right working state, the right rules, and the right decision context recoverable over time. That is why continuity here is treated as an operating problem, not just a memory feature.
+## Whole-System Responsibilities
 
-## What Makes It Different
+The public system view describes six responsibility areas operating as one governed structure:
 
-Most AI systems are still built around isolated tasks.
+1. **Central Control** — maintains the main line, priority, routing, recovery, return, and closure.
+2. **Definition Source & Runtime Truth** — determines system identity, applicable boundaries, and the current authoritative operating basis.
+3. **Continuity Support** — preserves the identity, thread, anchors, and minimum authoritative basis that must survive change.
+4. **Shared State & Global State Awareness** — keeps active threads, priorities, roles, coordination, and current work position coherent.
+5. **Protocol, Execution & Return** — translates bounded decisions into handoff, tool execution, delivery, return, attach, and re-entry.
+6. **Human × Central Control Governance** — preserves human direction, gates, correction, override, stopping, canonical promotion, and final acceptance.
 
-This system is not.
+This is a governed operating topology, not a linear task flow.
 
-It does not start from:
+## System, Company, and Named Identity
 
-- a single skill
-- a single workflow
-- a single agent loop
+- **ZL Subbrain OS** — Whole-System and product identity
+- **Zyline Tech Inc.** — company advancing the engineering-validation and commercialization pathway
+- **Leo** — the named subbrain identity operating within ZL Subbrain OS
 
-It starts from a more difficult requirement:
+Models, windows, tools, and runtime environments may change. The named identity and its control relationship are supported by language protocols and structured truth.
 
-the same human,  
-the same AI,  
-the same working identity,  
-still coherent over time.
+## Current Engineering Position
 
-That means continuity matters more than novelty.  
-Recall matters more than storage.  
-Judgment matters more than output volume.  
-And collaboration matters more than automation theater.
+As of **2026-09-07**, the first bounded validation slice — **Source-aware Re-entry & Controlled Write-back** — has passed internal engineering validation and established an internal baseline.
 
-This is not a better wrapper around ordinary chat.  
-It is an attempt to build a persistent working layer where human-AI collaboration does not reset every time the context shifts.
+| Evidence item | Result |
+| --- | ---: |
+| Formal evidence set | 36 / 36 |
+| Raw scoring dimensions | 287 / 288 |
+| Governed semantic result | 288 / 288 |
+| GSBS-Core | 36 / 36 |
+| Hard safety violations | 0 |
 
-## Core Structure
-
-The system currently includes:
-
-### 1. Core Blueprint Layer
-Identity, rules, boundaries, and long-term collaboration principles  
-(internally maintained as the Blueprint)
-
-### 2. Business Workflow Guide Layer
-Task guides, domain workflows, and business handling logic  
-(internally maintained as the Business Playbook)
-
-### 3. Selective Recall and Continuity Mechanism
-Anchor-based recall, continuity support, and convergence between old and new context  
-(internally developed as the FUM mechanism)
-
-### 4. Internal Module System
-A layered internal structure including:
-
-- Function Layer (FN)
-- Behavior Mapping Layer (BM)
-- Logic Layer (LL)
-- Language Module Layer (LM)
-- Language Adaptation Layer (LA)
-
-### 5. Runtime Support Layer
-Runtime state, rule protocols, best-practice records, and execution logs, including:
-
-- Runtime State / Runtime Data
-- Rule and Identity Protocol Layer (R-Index)
-- Best Practice Registry
-- Execution Logs
-
-This runtime layer includes the rule protocol surface, active state markers, and execution logs that make continuity inspectable rather than implicit.  
-In our internal system language, this is where the Blueprint, the FUM continuity mechanism, and the runtime protocol layer meet.
-
-## Key Characteristics
-
-- Decision-first
-- Long-horizon continuity
-- Persistent system persona
-- Selective recall instead of raw memory accumulation
-- Human-in-the-loop collaboration
-- Chat-native origin
-- No-plugin / no-API born architecture
-
-## Current Status
-
-- Built and iterated inside real business operations
-- Structured into system layers, protocols, and continuity mechanisms
-- Evolved from a single-thread origin into a more portable, container-aware system logic
-- External-facing documentation currently being prepared
-
-The public-facing language is still being tightened, but the internal structure already treats the system as a language-driven subbrain OS rather than a single vertical AI app.
+This release decision applies only to the bounded first engineering slice. It is **not** a claim of Whole-System product completion, production deployment, enterprise or third-party validation, controller causal advantage, publication-grade research, or commercial proof.
 
 ## Public Notes
 
-- **ZL Subbrain Core: A Migratable Working Kernel**  
-  What must survive when Leo moves across windows, models, and containers.  
-  [Read here](docs/migratable-working-kernel.md)
+These earlier public notes describe continuity components that remain part of the larger system:
 
-- **FUM Is Not a Database**  
-  An anchor-first, human-steered continuity mechanism for long-horizon collaboration.  
-  [Read here](docs/fum-is-not-a-database.md)
+- **[ZL Subbrain Core: A Migratable Working Kernel](docs/migratable-working-kernel.md)**
 
-Additional public writeups on system positioning and runtime implications may follow later.
+  What must survive when a named working identity moves across windows, models, and runtime environments.
 
-## Note
+- **[FUM Is Not a Database](docs/fum-is-not-a-database.md)**
 
-Some internal protocols, mechanisms, and system-specific materials are intentionally not fully public at this stage.
+  An anchor-first, human-steered continuity mechanism for long-horizon collaboration.
 
-## Contact
+FUM and the Migratable Working Kernel are components of ZL Subbrain OS. Neither is the Whole-System definition.
 
-For serious discussion, research interest, or infrastructure-level collaboration:  
-liaofanhot@gmail.com
+## Repository Scope
+
+This repository currently contains public system notes and status-level material. It does not expose the product source code, internal architecture, protocols, schemas, governance rules, or full evidence packages.
+
+## Founder & Contact
+
+**Liao Fan**
+
+Founder & CEO, Zyline Tech Inc.
+
+Founder, system originator, and product lead of ZL Subbrain OS
+
+For qualified technical dialogue, engineering validation, or platform-level collaboration:
+
+**liaofanhot@gmail.com**

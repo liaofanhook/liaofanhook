@@ -2,6 +2,8 @@
 
 *An anchor-first, human-steered continuity mechanism*
 
+> **September 2026 context.** This article describes FUM as an early continuity mechanism within ZL Subbrain OS. FUM remains relevant, but it is neither the Whole-System nor the complete control architecture. See the [current system position and engineering status](https://zl-subbrain-os.liaofanhot.chatgpt.site).
+
 Long-horizon human-AI collaboration does not fail because a system forgets too much text. It fails because continuity collapses under change. A new window opens. A thread disappears. A model gets replaced. A workflow branches.
 
 **What returns is no longer the same working brain.**

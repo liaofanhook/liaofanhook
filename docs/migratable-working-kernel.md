@@ -2,6 +2,8 @@
 
 *Not a persona pack, but a migration-ready operating core*
 
+> **September 2026 context.** This article is an early public note on one continuity component of ZL Subbrain OS. The Whole-System is now positioned as a control-centered, continuity-sensitive human-AI collaboration operating system. The Migratable Working Kernel remains part of its continuity architecture; it is not the Whole-System definition. See the [current system position and engineering status](https://zl-subbrain-os.liaofanhot.chatgpt.site).
+
 Most AI personas are built to shape tone, voice, and style. They can feel distinctive, but they are usually designed for short-lived interaction.
 
 ZL Subbrain was never built as a persona.
