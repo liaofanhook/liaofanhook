@@ -14,7 +14,9 @@ ZL Subbrain OS is the Whole-System and product identity.
 
 ![Source-aware Re-entry and Controlled Write-back public walkthrough](assets/reentry-demo.svg)
 
-The walkthrough makes the first validated slice visible: a rough return anchor is resolved against current and stale sources, reconstructed as a bounded Re-entry Card, and returned as a human-gated write-back proposal.
+The walkthrough makes the first validated slice visible: a rough return anchor is resolved against current and stale sources, reconstructed as a bounded Re-entry Card, and passed through a deterministic permission gate.
+
+Human involvement is conditional rather than the default mechanism: a supported re-entry may continue within bounded authority; unresolved conflicts, missing authority, insufficient evidence, or pending human decisions return control to the human.
 
 The example is intentionally public and illustrative. It is not a live production deployment, a connection to private runtime data, or a claim of Whole-System completion.
 
@@ -54,7 +56,3 @@ This is a governed operating topology, not a linear task flow.
 - **Leo** — the named subbrain identity operating within ZL Subbrain OS
 
 Models, windows, tools, and runtime environments may change. The named identity and its control relationship are supported by language protocols and structured truth.
-
-## Current Engineering Position
-
-As of **2026-09-07**, the first bounded validation slice — **Source-aware Re-entry & Controlled Write-back** — has passed internal engineering validation and established an internal baseline.
