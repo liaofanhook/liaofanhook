@@ -8,6 +8,16 @@ ZL Subbrain OS is the Whole-System and product identity.
 
 [Website](https://zl-subbrain-os.liaofanhot.chatgpt.site) · [System](https://zl-subbrain-os.liaofanhot.chatgpt.site/system) · [Engineering Validation](https://zl-subbrain-os.liaofanhot.chatgpt.site/validation)
 
+## See It Work
+
+**[Open the 60-second interactive walkthrough →](https://zl-subbrain-os.liaofanhot.chatgpt.site/demo)**
+
+![Source-aware Re-entry and Controlled Write-back public walkthrough](assets/reentry-demo.svg)
+
+The walkthrough makes the first validated slice visible: a rough return anchor is resolved against current and stale sources, reconstructed as a bounded Re-entry Card, and returned as a human-gated write-back proposal.
+
+The example is intentionally public and illustrative. It is not a live production deployment, a connection to private runtime data, or a claim of Whole-System completion.
+
 ## Why This Exists
 
 Long-horizon human-AI work carries continuing interpretation, judgment, thread recognition, priority, coordination, recovery, execution return, and closure across changing models, windows, providers, tools, people, and formal sources.
@@ -48,43 +58,3 @@ Models, windows, tools, and runtime environments may change. The named identity 
 ## Current Engineering Position
 
 As of **2026-09-07**, the first bounded validation slice — **Source-aware Re-entry & Controlled Write-back** — has passed internal engineering validation and established an internal baseline.
-
-| Evidence item | Result |
-| --- | ---: |
-| Formal evidence set | 36 / 36 |
-| Raw scoring dimensions | 287 / 288 |
-| Governed semantic result | 288 / 288 |
-| GSBS-Core | 36 / 36 |
-| Hard safety violations | 0 |
-
-This release decision applies only to the bounded first engineering slice. It is **not** a claim of Whole-System product completion, production deployment, enterprise or third-party validation, controller causal advantage, publication-grade research, or commercial proof.
-
-## Public Notes
-
-These earlier public notes describe continuity components that remain part of the larger system:
-
-- **[ZL Subbrain Core: A Migratable Working Kernel](docs/migratable-working-kernel.md)**
-
-  What must survive when a named working identity moves across windows, models, and runtime environments.
-
-- **[FUM Is Not a Database](docs/fum-is-not-a-database.md)**
-
-  An anchor-first, human-steered continuity mechanism for long-horizon collaboration.
-
-FUM and the Migratable Working Kernel are components of ZL Subbrain OS. Neither is the Whole-System definition.
-
-## Repository Scope
-
-This repository currently contains public system notes and status-level material. It does not expose the product source code, internal architecture, protocols, schemas, governance rules, or full evidence packages.
-
-## Founder & Contact
-
-**Liao Fan**
-
-Founder & CEO, Zyline Tech Inc.
-
-Founder, system originator, and product lead of ZL Subbrain OS
-
-For qualified technical dialogue, engineering validation, or platform-level collaboration:
-
-**liaofanhot@gmail.com**
