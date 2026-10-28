@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Source-aware Re-entry and Controlled Write-back public walkthrough</title>
+  <desc id="desc">A four-step flow from a rough anchor through source resolution and work-position recovery to a human-gated write-back proposal.</desc>
+  <rect width="1200" height="675" fill="#f4f7f9"/>
+  <rect x="54" y="48" width="1092" height="579" rx="20" fill="#ffffff" stroke="#cdd9e4"/>
+  <text x="88" y="92" fill="#078985" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="2">PUBLIC PRODUCT WALKTHROUGH</text>
+  <text x="88" y="138" fill="#0d2442" font-family="Arial, sans-serif" font-size="34" font-weight="700">From a rough anchor to a governed return</text>
+  <text x="88" y="168" fill="#5e7083" font-family="Arial, sans-serif" font-size="16">A bounded visualization of Source-aware Re-entry &amp; Controlled Write-back.</text>
+
+  <g transform="translate(88 224)">
+    <rect width="228" height="258" rx="12" fill="#0d2442"/>
+    <text x="22" y="36" fill="#33b8b0" font-family="Arial, sans-serif" font-size="12" font-weight="700">01 · ROUGH ANCHOR</text>
+    <text x="22" y="82" fill="#ffffff" font-family="Arial, sans-serif" font-size="22" font-weight="700">“Continue the</text>
+    <text x="22" y="110" fill="#ffffff" font-family="Arial, sans-serif" font-size="22" font-weight="700">application thread.”</text>
+    <text x="22" y="154" fill="#b8c9d9" font-family="Arial, sans-serif" font-size="14">Intent and current state</text>
+    <text x="22" y="177" fill="#b8c9d9" font-family="Arial, sans-serif" font-size="14">are underspecified.</text>
+    <rect x="22" y="210" width="116" height="26" rx="13" fill="#17395f"/>
+    <text x="80" y="228" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="11" font-weight="700">RETURN REQUEST</text>
+  </g>
+
+  <path d="M328 353h36" stroke="#33b8b0" stroke-width="3"/>
+  <path d="M356 345l10 8-10 8" fill="none" stroke="#33b8b0" stroke-width="3"/>
+
+  <g transform="translate(376 224)">
+    <rect width="228" height="258" rx="12" fill="#effaf8" stroke="#078985"/>
+    <text x="22" y="36" fill="#078985" font-family="Arial, sans-serif" font-size="12" font-weight="700">02 · SOURCE RESOLUTION</text>
+    <rect x="22" y="62" width="184" height="54" rx="7" fill="#ffffff" stroke="#078985"/>
+    <text x="34" y="83" fill="#078985" font-family="Arial, sans-serif" font-size="10" font-weight="700">CURRENT · AUTHORITATIVE</text>
+    <text x="34" y="104" fill="#0d2442" font-family="Arial, sans-serif" font-size="14" font-weight="700">Submission receipt</text>
+    <rect x="22" y="128" width="184" height="48" rx="7" fill="#ffffff" stroke="#cdd9e4"/>
+    <text x="34" y="149" fill="#5e7083" font-family="Arial, sans-serif" font-size="10" font-weight="700">PLANNING SUPPORT</text>
+    <text x="34" y="168" fill="#0d2442" font-family="Arial, sans-serif" font-size="13" font-weight="700">Active threadboard</text>
+    <rect x="22" y="188" width="184" height="48" rx="7" fill="#fff7dc" stroke="#d8a221"/>
+    <text x="34" y="209" fill="#8a6816" font-family="Arial, sans-serif" font-size="10" font-weight="700">STALE · CONFLICTING</text>
+    <text x="34" y="228" fill="#5e7083" font-family="Arial, sans-serif" font-size="13" font-weight="700">Prior chat summary</text>
+  </g>
+
+  <path d="M616 353h36" stroke="#33b8b0" stroke-width="3"/>
+  <path d="M644 345l10 8-10 8" fill="none" stroke="#33b8b0" stroke-width="3"/>
+
+  <g transform="translate(664 224)">
+    <rect width="228" height="258" rx="12" fill="#ffffff" stroke="#17395f"/>
+    <rect width="228" height="54" rx="12" fill="#17395f"/>
+    <rect y="42" width="228" height="12" fill="#17395f"/>
+    <text x="18" y="24" fill="#33b8b0" font-family="Arial, sans-serif" font-size="10" font-weight="700">03 · RE-ENTRY CARD</text>
+    <text x="18" y="43" fill="#ffffff" font-family="Arial, sans-serif" font-size="14" font-weight="700">Application review thread</text>
+    <text x="18" y="83" fill="#5e7083" font-family="Arial, sans-serif" font-size="10" font-weight="700">AUTHORITATIVE STATE</text>
+    <text x="18" y="104" fill="#0d2442" font-family="Arial, sans-serif" font-size="14" font-weight="700">Submitted · approval pending</text>
+    <line x1="18" y1="120" x2="210" y2="120" stroke="#cdd9e4"/>
+    <text x="18" y="145" fill="#5e7083" font-family="Arial, sans-serif" font-size="10" font-weight="700">NEXT PERMITTED ACTION</text>
+    <text x="18" y="166" fill="#0d2442" font-family="Arial, sans-serif" font-size="14" font-weight="700">Monitor host decision</text>
+    <line x1="18" y1="182" x2="210" y2="182" stroke="#cdd9e4"/>
+    <text x="18" y="207" fill="#5e7083" font-family="Arial, sans-serif" font-size="10" font-weight="700">BLOCKED ACTION</text>
+    <text x="18" y="228" fill="#8a6816" font-family="Arial, sans-serif" font-size="14" font-weight="700">No duplicate submission</text>
+  </g>
+
+  <path d="M904 353h36" stroke="#33b8b0" stroke-width="3"/>
+  <path d="M932 345l10 8-10 8" fill="none" stroke="#33b8b0" stroke-width="3"/>
+
+  <g transform="translate(952 224)">
+    <rect width="162" height="258" rx="12" fill="#fff7dc" stroke="#d8a221"/>
+    <text x="18" y="36" fill="#8a6816" font-family="Arial, sans-serif" font-size="11" font-weight="700">04 · HUMAN GATE</text>
+    <text x="18" y="82" fill="#0d2442" font-family="Arial, sans-serif" font-size="18" font-weight="700">Write-back</text>
+    <text x="18" y="108" fill="#0d2442" font-family="Arial, sans-serif" font-size="18" font-weight="700">is proposed.</text>
+    <text x="18" y="144" fill="#5e7083" font-family="Arial, sans-serif" font-size="13">Canonical state</text>
+    <text x="18" y="165" fill="#5e7083" font-family="Arial, sans-serif" font-size="13">does not change</text>
+    <text x="18" y="186" fill="#5e7083" font-family="Arial, sans-serif" font-size="13">without approval.</text>
+    <rect x="18" y="214" width="126" height="26" rx="4" fill="#078985"/>
+    <text x="81" y="232" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="11" font-weight="700">APPROVE / REJECT</text>
+  </g>
+
+  <rect x="88" y="526" width="1026" height="58" rx="8" fill="#edf3f6"/>
+  <text x="108" y="550" fill="#0d2442" font-family="Arial, sans-serif" font-size="13" font-weight="700">Public boundary</text>
+  <text x="108" y="572" fill="#5e7083" font-family="Arial, sans-serif" font-size="13">Illustrative walkthrough of the validated responsibility chain — not a live production deployment or access to private runtime data.</text>
+</svg>
